@@ -1,0 +1,6 @@
+a1|Harry Potter and the Sorcerers Stone|J.K Rowling|Bloomsbury Publishing|1997|348|Fantasy|uploads/1.jpg
+
+
+a3|1984|George Orwell|Secker & Warburg|1949|328|Fiksi|uploads/3.jpg
+a2|To Kill a Mockingbird|George Orwell|Little, Brown and Company|1949|347|Fiksi|uploads/10.jpg
+a6|The Great Gatsby|J.D. Salinger|Secker & Warburg|1997|328|Fiksi|uploads/8.jpg
